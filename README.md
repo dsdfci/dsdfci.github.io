@@ -1,4 +1,4 @@
-# DSDFCI DoDS
+# DSDFCI
 
 The DSDFCI website landing page.
 <br />
@@ -40,7 +40,7 @@ To start the live server;
 
 - Right click on the index.html and select `open with live server`
 
-If it worked well, the the landing page should be automatically rendered in the browser on `http://127.0.0.1:5500/`.
+If it worked, the landing page should be automatically rendered in the browser on `http://127.0.0.1:5500/`.
 
 ## Author
 
@@ -54,14 +54,6 @@ If it worked well, the the landing page should be automatically rendered in the 
 Contributions, issues and feature requests are welcome!
 
 - To create an issue, visit the [issues page](https://github.com/dsdfci/dsdfci.github.io/issues) and create a new issue.
-- To contribute to the code base, follow the steps below:
-  1. Fork this repository to your remote respository by clicking the Fork button in this repository.
-  2. Clone this repository to a directory on your computer by following Github guidelines.
-  3. Change directory into the directory where you cloned this repository to.
-  4. Open the directory using your favorite editor.
-  5. Create a feature branch off the develop branch.
-  6. Make and commit the nuanced code.
-  7. Open a pull request describing the improvements made and your reward awaits in heaven.
 
 ## 👍 Express your support
 
